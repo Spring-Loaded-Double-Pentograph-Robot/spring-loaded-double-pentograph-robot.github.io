@@ -1,3 +1,3 @@
-# avatar-robots.github.io
+# spring-loaded-double-pentograph-robot.github.io
 
-Website for Avatar Robots.
+Website for the Spring Loaded Double Pantograph: A Robotic Mechanism for Safe Balance Training
