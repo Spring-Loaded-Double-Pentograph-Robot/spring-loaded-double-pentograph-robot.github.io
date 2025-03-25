@@ -146,7 +146,18 @@
 
 <section class="single">
 
-	
+	<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const video = document.getElementById('autoplayVideo');
+    // Try to play video after page loads
+    video.play().catch(function(error) {
+        console.log("Video autoplay failed:", error);
+    });
+});
+</script>
+
+<p><img src="/user-results/vealy_vid.gif" style="         display: block;         width: 50%;         max-width: 300px;         height: auto;         margin: 0 auto;         border: 1px solid rgba(0,0,0,0.1);         border-radius: 12px;         background: white;         box-shadow: 0 4px 6px rgba(0,0,0,0.05);" alt="Demo" /></p>
+
 
 
 </section>

@@ -1,8 +1,8 @@
 ---
 permalink: /fabrication/
 title: Fabrication
-subtitle: 'blah blah blah '
+subtitle: ''
 ---
 
-## Test
+
 blah blah 

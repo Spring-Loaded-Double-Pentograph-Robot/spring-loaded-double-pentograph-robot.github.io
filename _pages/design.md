@@ -1,8 +1,8 @@
 ---
 permalink: /design/
 title: Design
-subtitle: 'blah blah blah '
+subtitle: ''
 ---
 
-## Test
+
 blah blah 
