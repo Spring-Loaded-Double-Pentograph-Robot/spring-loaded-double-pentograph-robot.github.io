@@ -14,7 +14,12 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<img src="/user-results/vealy_vid.gif" 
+
+     
+<script src="https://vjs.zencdn.net/8.0.4/video.min.js"></script>
+
+<center>
+    <img src="/user-results/vealy_vid.gif" 
      style="
         display: block;
         width: 50%;
@@ -26,4 +31,12 @@ document.addEventListener('DOMContentLoaded', function() {
         background: white;
         box-shadow: 0 4px 6px rgba(0,0,0,0.05);"
      alt="Demo">
-     
+</center>
+<span style="font-size:medium;">
+SLDP prototype is being demonstrated with the user participant. Here it shows the simulated falls. Interactions and Results for all the users are available in <a href="{{ item.url | relative_url }}/user-sessions">user sessions</a>.</span>
+
+<center style="margin-top:2em;margin-bottom:2em">
+    <img src="/figures/kinematic_nomenclature.png" style="width:50%;"/>
+    <span style="font-size:medium;">
+    Schematic Diagram of SLDP</span>
+</center>
