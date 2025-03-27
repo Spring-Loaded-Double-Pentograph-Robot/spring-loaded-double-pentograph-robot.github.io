@@ -8,9 +8,10 @@ subtitle: ''
   <iframe 
     width="900" 
     height="506" 
-    src="https://www.youtube.com/watch?v=fgkfo35Yxh4" 
+    src="https://www.youtube.com/embed/fgkfo35Yxh4?si=TkEcxbdmu6a63K7Z" 
     title="Exhibition" 
     frameborder="0" 
     allowfullscreen>
   </iframe>
 </div>
+
