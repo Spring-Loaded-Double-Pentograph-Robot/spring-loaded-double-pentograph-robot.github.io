@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
      alt="Demo">
 </center>
 <span style="font-size:medium;">
-SLDP prototype is being demonstrated with the user participant performing Tai Chi movements with simulated falls. Interactions and Results for all the users are available in <a href="{{ item.url | relative_url }}/user-sessions">user sessions</a>.</span>
+    A test participant demonstrating controlled Tai Chi movements and simulated falls. The SLDP physical prototype is seen supporting the participants during the falls and imbalance. For detailed interactions and comprehensive results from all user trials, visit <a href="{{ item.url | relative_url }}/user-sessions">user sessions</a> page.</span>
 
 <center style="margin-top:2em;margin-bottom:2em">
     <img src="/figures/kinematic_nomenclature.png" style="width:50%;"/>
