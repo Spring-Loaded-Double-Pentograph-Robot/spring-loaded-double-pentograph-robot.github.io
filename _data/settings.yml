@@ -24,8 +24,8 @@ menu_settings:
       url: '/paper'
     - title: 'Team'
       url: '/team'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'Exhibit'
+      url: '/exhibit'
     
 footer_settings:
   logo_image: 
